@@ -1,0 +1,9 @@
+{
+  "capacity": 2,
+  "operations": [
+    {
+      "op": "get",
+      "key": "key-5"
+    }
+  ]
+}
