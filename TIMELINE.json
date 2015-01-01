@@ -1,0 +1,2220 @@
+{
+  "synthetic": true,
+  "actualDevelopmentYear": 2026,
+  "modeledLearningYear": 2015,
+  "roadmapFit": "The roadmap's 2014\u20132015 cache-expiration and Redis-inspired learning themes.",
+  "scenarioCommitCount": 367,
+  "scenarioCommits": [
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 0,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-02T10:28:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 1,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-03T19:42:37+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 2,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-06T15:32:57+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 3,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-08T14:45:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 4,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-11T09:26:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 5,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-11T22:38:10+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 6,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-12T16:34:03+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 7,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-13T08:58:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 8,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-14T12:50:57+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 9,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-14T20:13:42+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 10,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-16T10:03:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 11,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-16T13:02:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 12,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-16T20:02:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 13,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-19T08:48:52+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 14,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-19T13:26:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 15,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-19T16:00:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 16,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-21T08:06:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 17,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-21T20:15:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 18,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-21T22:32:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 19,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-23T20:14:24+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 20,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-27T21:30:01+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 21,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-28T21:05:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 22,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-29T09:56:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 23,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-29T15:05:14+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 24,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-29T18:33:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 25,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-30T08:52:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 26,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-30T10:54:12+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 27,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-30T13:35:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 28,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-30T17:04:18+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 29,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-30T21:15:23+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 30,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-01-31T18:01:36+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 31,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-01T12:14:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 32,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-01T17:13:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 33,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-01T20:14:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 34,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-01T21:46:53+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 35,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-01T22:56:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 36,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-03T09:26:24+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 37,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-03T15:33:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 38,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-03T18:25:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 39,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-03T21:07:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 40,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-04T11:41:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 41,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-04T16:49:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 42,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-05T08:15:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 43,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-05T13:23:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 44,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-06T08:03:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 45,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-07T15:11:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 46,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-09T11:13:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 47,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-10T08:43:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 48,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-11T20:49:07+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 49,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-12T19:54:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 50,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-13T11:02:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 51,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-15T19:42:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 52,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-19T10:52:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 53,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-22T09:56:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 54,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-22T14:18:58+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 55,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-23T12:13:14+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 56,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-23T21:53:10+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 57,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-27T11:26:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 58,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-27T18:15:58+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 59,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-27T18:49:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 60,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-28T15:20:11+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 61,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-02-28T21:37:41+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 62,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T09:24:45+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 63,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T10:16:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 64,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T11:06:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 65,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T17:00:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 66,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T19:12:12+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 67,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T21:17:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 68,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-01T22:32:50+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 69,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-02T20:46:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 70,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-03T22:14:40+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 71,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-06T13:22:45+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 72,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-06T19:18:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 73,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-08T08:12:37+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 74,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-08T12:49:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 75,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-08T15:03:37+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 76,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-09T16:39:23+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 77,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-09T21:53:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 78,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-12T15:26:57+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 79,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-12T19:34:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 80,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-12T22:24:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 81,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-16T09:37:41+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 82,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-16T19:52:22+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 83,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-18T19:19:41+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 84,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-19T12:22:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 85,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-19T16:27:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 86,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-19T19:57:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 87,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-21T14:06:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 88,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-22T21:12:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 89,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-26T16:06:11+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 90,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-27T16:12:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 91,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-29T12:20:10+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 92,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-29T18:20:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 93,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-29T21:59:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 94,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-30T13:56:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 95,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-30T14:53:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 96,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-30T16:48:31+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 97,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-30T19:58:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 98,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-03-30T22:44:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 99,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-02T09:17:13+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 100,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-02T13:31:01+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 101,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-03T19:46:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 102,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-05T17:51:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 103,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-06T11:44:31+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 104,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-07T13:17:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 105,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-07T17:53:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 106,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-08T20:08:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 107,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-11T09:46:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 108,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-11T12:36:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 109,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-11T14:02:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 110,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-11T18:33:36+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 111,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-12T19:15:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 112,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-15T12:12:50+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 113,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-15T21:16:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 114,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-17T14:58:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 115,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-19T10:39:33+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 116,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-19T17:27:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 117,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-20T14:21:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 118,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-20T21:22:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 119,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-20T22:02:42+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 120,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-21T08:41:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 121,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-21T12:10:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 122,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-21T16:55:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 123,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-21T20:53:59+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 124,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-22T08:35:13+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 125,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-22T21:48:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 126,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-24T12:33:41+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 127,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-24T13:00:14+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 128,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-24T18:07:40+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 129,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-24T20:42:58+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 130,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-25T15:53:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 131,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-26T09:44:56+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 132,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-26T17:57:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 133,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-28T10:23:36+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 134,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-04-28T22:21:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 135,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-01T08:05:40+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 136,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-01T19:16:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 137,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-02T12:23:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 138,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-03T10:22:55+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 139,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-04T12:16:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 140,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-04T15:14:23+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 141,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-04T20:50:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 142,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-04T22:47:01+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 143,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-05T11:13:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 144,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-05T12:49:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 145,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-05T17:31:36+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 146,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-05T21:05:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 147,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-07T08:48:03+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 148,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-07T13:23:57+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 149,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-07T17:24:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 150,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-07T21:40:36+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 151,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-09T10:34:35+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 152,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-10T19:37:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 153,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-12T08:42:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 154,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-12T16:11:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 155,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-14T20:41:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 156,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-24T12:30:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 157,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-26T08:12:14+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 158,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-26T10:05:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 159,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-26T11:40:35+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 160,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-26T17:31:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 161,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-26T18:56:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 162,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-28T15:14:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 163,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-28T20:00:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 164,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-05-30T17:26:24+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 165,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-01T12:01:55+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 166,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-03T18:03:52+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 167,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-06T17:57:32+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 168,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-08T10:39:24+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 169,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-10T13:08:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 170,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-14T08:17:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 171,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-14T15:33:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 172,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-14T20:06:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 173,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-14T22:07:53+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 174,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-15T09:42:42+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 175,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-15T12:26:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 176,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-15T15:56:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 177,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-15T18:34:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 178,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-15T22:43:23+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 179,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-18T08:09:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 180,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-18T13:38:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 181,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-18T18:36:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 182,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-19T09:49:34+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 183,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-19T15:42:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 184,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-21T12:00:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 185,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-22T11:53:23+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 186,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-22T17:13:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 187,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-22T20:03:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 188,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-22T22:16:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 189,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-23T11:45:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 190,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-23T16:31:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 191,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-23T20:13:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 192,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-24T14:31:27+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 193,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-26T08:25:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 194,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-26T14:02:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 195,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-27T09:36:44+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 196,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-27T14:49:37+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 197,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-27T22:08:17+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 198,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-06-30T13:48:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 199,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-01T13:16:22+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 200,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-02T10:36:27+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 201,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-02T18:02:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 202,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-03T14:22:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 203,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-03T21:16:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 204,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-04T19:56:34+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 205,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-04T21:25:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 206,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-05T08:21:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 207,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-05T11:55:35+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 208,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-05T18:09:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 209,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-07T08:59:11+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 210,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-07T18:05:13+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 211,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-07T22:00:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 212,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-08T08:41:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 213,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-08T17:44:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 214,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-08T19:52:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 215,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-11T09:00:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 216,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-11T14:00:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 217,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-13T08:24:31+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 218,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-13T17:13:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 219,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-16T11:58:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 220,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-16T16:45:58+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 221,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-16T21:03:01+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 222,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-17T09:39:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 223,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-17T14:25:34+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 224,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-20T22:26:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 225,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-24T16:16:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 226,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-26T16:40:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 227,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-29T22:10:41+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 228,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-30T09:16:22+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 229,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-30T12:59:35+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 230,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-30T18:12:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 231,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-30T20:17:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 232,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-07-31T09:37:13+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 233,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-01T21:51:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 234,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T09:59:55+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 235,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T14:20:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 236,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T15:19:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 237,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T16:35:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 238,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T17:28:07+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 239,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T18:28:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 240,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T19:46:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 241,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-04T22:42:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 242,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-07T10:48:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 243,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-07T18:16:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 244,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-09T10:48:34+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 245,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-13T11:13:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 246,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-13T13:00:18+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 247,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-14T20:25:17+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 248,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-16T11:30:00+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 249,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-18T09:47:33+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 250,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-18T15:50:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 251,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-22T09:26:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 252,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-23T16:54:03+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 253,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-23T20:21:30+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 254,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-24T14:20:14+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 255,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-27T09:52:10+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 256,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-28T15:19:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 257,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-30T16:32:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 258,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-30T19:53:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 259,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-31T12:30:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 260,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-31T15:01:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 261,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-31T19:55:01+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 262,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-08-31T22:18:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 263,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-04T08:23:57+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 264,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-04T14:05:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 265,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-08T18:14:31+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 266,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-13T22:26:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 267,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-16T12:45:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 268,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-20T13:06:27+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 269,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-21T18:23:55+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 270,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-23T13:02:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 271,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-26T09:13:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 272,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-26T20:49:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 273,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T09:00:46+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 274,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T09:41:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 275,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T12:43:38+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 276,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T13:40:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 277,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T16:30:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 278,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T19:05:06+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 279,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T20:03:13+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 280,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-09-28T21:59:45+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 281,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-01T09:32:18+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 282,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-02T09:47:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 283,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-02T19:15:01+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 284,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-05T10:53:24+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 285,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-05T15:58:07+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 286,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-05T20:45:00+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 287,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-06T14:31:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 288,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-06T22:47:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 289,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-12T19:51:35+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 290,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-13T13:01:52+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 291,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-13T15:07:00+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 292,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-13T20:03:37+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 293,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-15T14:50:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 294,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-19T12:32:13+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 295,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-24T14:06:09+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 296,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-26T15:18:59+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 297,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-27T20:49:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 298,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-28T09:43:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 299,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-28T15:34:56+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 300,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-28T17:43:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 301,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-28T21:49:42+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 302,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-29T12:15:52+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 303,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-29T18:50:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 304,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-30T09:16:26+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 305,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-10-31T09:42:27+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 306,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-01T12:53:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 307,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-01T18:29:56+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 308,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-01T19:26:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 309,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-02T11:28:18+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 310,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-02T19:44:47+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 311,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-03T11:51:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 312,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-04T21:54:00+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 313,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-08T22:31:48+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 314,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-14T13:20:36+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 315,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-15T22:44:15+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 316,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-17T10:48:07+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 317,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-17T18:11:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 318,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-17T20:42:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 319,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-18T11:42:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 320,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-18T18:05:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 321,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-19T10:12:25+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 322,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-23T08:11:45+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 323,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-24T09:04:30+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 324,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-24T12:33:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 325,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-24T14:52:03+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 326,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-24T19:05:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 327,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-24T21:08:28+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 328,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-25T14:11:31+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 329,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-25T22:09:05+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 330,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-29T11:57:54+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 331,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-11-30T08:31:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 332,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-01T10:48:50+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 333,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-01T15:04:16+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 334,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-01T19:13:35+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 335,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-01T22:32:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 336,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-03T20:26:45+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 337,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-04T20:04:02+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 338,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-06T09:43:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 339,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-06T19:19:04+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 340,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-06T21:22:21+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 341,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-07T13:07:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 342,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-07T19:52:39+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 343,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-10T14:55:53+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 344,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-10T21:57:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 345,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-11T10:53:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 346,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-12T12:30:10+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 347,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-12T22:55:59+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 348,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-14T14:17:08+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 349,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-14T22:18:52+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 350,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-17T10:20:22+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 351,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-17T11:40:56+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 352,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-17T15:14:23+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 353,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-17T17:26:34+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 354,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-17T18:12:58+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 355,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-17T22:42:51+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 356,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-20T08:25:20+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 357,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-20T10:36:49+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 358,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-20T20:15:19+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 359,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-24T22:44:00+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 360,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-26T18:45:50+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 361,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-26T20:18:53+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 362,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-27T18:10:43+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 363,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-28T10:41:55+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 364,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-28T17:52:45+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 365,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-28T19:40:29+00:00"
+    },
+    {
+      "repository": "ttl-cache-playground",
+      "fixtureIndex": 366,
+      "year": 2015,
+      "scenarioAuthorDate": "2015-12-28T20:49:16+00:00"
+    }
+  ],
+  "committerTimeline": {
+    "synthetic": true,
+    "modeledYears": [
+      2015
+    ],
+    "actualPresentationUpdateAt": "2026-11-05T13:19:47.798358+00:00",
+    "allAuthorHeadersPreserved": true,
+    "fixtureCommittersMatchIllustrativeAuthorDates": true
+  }
+}
