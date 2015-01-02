@@ -1,0 +1,1 @@
+{"description": "reject caches with zero capacity", "expected_error": true, "id": "cache-0000", "input": {"capacity": 0, "operations": []}}
