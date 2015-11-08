@@ -311,3 +311,4 @@
 {"description": "reject backward logical clock advances", "expected_error": true, "id": "cache-0310", "input": {"capacity": 2, "operations": [{"op": "advance", "seconds": -1}]}}
 {"description": "reject unsupported cache operations", "expected_error": true, "id": "cache-0311", "input": {"capacity": 2, "operations": [{"key": "key-311", "op": "remove"}]}}
 {"description": "reject blank cache keys", "expected_error": true, "id": "cache-0312", "input": {"capacity": 2, "operations": [{"key": " ", "op": "put", "ttl": 10, "value": 312}]}}
+{"description": "report a miss for an unknown key", "expected": {"keys": [], "results": [{"hit": false, "key": "key-313", "op": "get", "value": null}], "time": 0}, "id": "cache-0313", "input": {"capacity": 2, "operations": [{"key": "key-313", "op": "get"}]}}
