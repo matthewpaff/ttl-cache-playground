@@ -331,3 +331,4 @@
 {"description": "reject caches with zero capacity", "expected_error": true, "id": "cache-0330", "input": {"capacity": 0, "operations": []}}
 {"description": "reject zero-length cache TTLs", "expected_error": true, "id": "cache-0331", "input": {"capacity": 2, "operations": [{"key": "key-331", "op": "put", "ttl": 0, "value": 331}]}}
 {"description": "reject backward logical clock advances", "expected_error": true, "id": "cache-0332", "input": {"capacity": 2, "operations": [{"op": "advance", "seconds": -1}]}}
+{"description": "reject unsupported cache operations", "expected_error": true, "id": "cache-0333", "input": {"capacity": 2, "operations": [{"key": "key-333", "op": "remove"}]}}
