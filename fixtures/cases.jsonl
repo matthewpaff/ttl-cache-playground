@@ -343,3 +343,4 @@
 {"description": "reject zero-length cache TTLs", "expected_error": true, "id": "cache-0342", "input": {"capacity": 2, "operations": [{"key": "key-342", "op": "put", "ttl": 0, "value": 342}]}}
 {"description": "reject backward logical clock advances", "expected_error": true, "id": "cache-0343", "input": {"capacity": 2, "operations": [{"op": "advance", "seconds": -1}]}}
 {"description": "reject unsupported cache operations", "expected_error": true, "id": "cache-0344", "input": {"capacity": 2, "operations": [{"key": "key-344", "op": "remove"}]}}
+{"description": "reject blank cache keys", "expected_error": true, "id": "cache-0345", "input": {"capacity": 2, "operations": [{"key": " ", "op": "put", "ttl": 10, "value": 345}]}}
